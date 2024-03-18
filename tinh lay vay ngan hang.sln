@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tinh lay vay ngan hang", "tinh lay vay ngan hang\tinh lay vay ngan hang.vcxproj", "{A92E6F83-3BFA-4776-9B3E-D3A60203FFEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A92E6F83-3BFA-4776-9B3E-D3A60203FFEC}.Debug|x64.ActiveCfg = Debug|x64
+		{A92E6F83-3BFA-4776-9B3E-D3A60203FFEC}.Debug|x64.Build.0 = Debug|x64
+		{A92E6F83-3BFA-4776-9B3E-D3A60203FFEC}.Debug|x86.ActiveCfg = Debug|Win32
+		{A92E6F83-3BFA-4776-9B3E-D3A60203FFEC}.Debug|x86.Build.0 = Debug|Win32
+		{A92E6F83-3BFA-4776-9B3E-D3A60203FFEC}.Release|x64.ActiveCfg = Release|x64
+		{A92E6F83-3BFA-4776-9B3E-D3A60203FFEC}.Release|x64.Build.0 = Release|x64
+		{A92E6F83-3BFA-4776-9B3E-D3A60203FFEC}.Release|x86.ActiveCfg = Release|Win32
+		{A92E6F83-3BFA-4776-9B3E-D3A60203FFEC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AE27D869-4A6B-4C22-B0A2-75B1E97F581F}
+	EndGlobalSection
+EndGlobal
